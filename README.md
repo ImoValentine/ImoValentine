@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ImoValentine
 - 👀 I’m interested in Coding. Programming. Robotics ;-The Future, Philosophy, Excellence
 - 🌱 I’m currently learning how to code Robots, Arduino. Computer science student and enthusiast
-- 💞️ I’m looking to collaborate on Robot code, design 
+- 💞️ I’m looking to collaborate on AI agent code, design, Web3
 - 📫 How to reach me imojacobs98@gmail.com
 
 <!---
